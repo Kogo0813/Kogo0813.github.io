@@ -1,7 +1,7 @@
 ---
-title: "양자역학"
+title: "Quantam"
 layout: archive
-permalink: Quantam
+permalink: /Quantam
 ---
 
 
