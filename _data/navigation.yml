@@ -3,7 +3,7 @@ sidebar-category:
   - title: "Quantam Computing"
     children:
       - title: "양자역학"
-        url: "/Quantam"
+        url: /Quantam/
       - title: "양자 알고리즘"
-        url: "/Quantam Algorithm"
+        url: /Quantam Algorithm/
       
