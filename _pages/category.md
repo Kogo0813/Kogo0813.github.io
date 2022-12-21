@@ -1,9 +1,9 @@
 ---
 title: "양자역학"
 layout: archive
-permalink: //
+permalink: /Quantam/
 ---
 
 
-{% assign posts = site.categories.양자역학 %}
+{% assign posts = site.categories.Quantam %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
