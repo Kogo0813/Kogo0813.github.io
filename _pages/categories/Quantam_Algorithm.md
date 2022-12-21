@@ -1,7 +1,7 @@
 ---
 title: "Quantam_Algorithm"
 layout: archive
-permalink: /Quantam_Algorithm
+permalink: /Quantam_Algorithm/
 ---
 
 
