@@ -1,7 +1,7 @@
 ---
 title: "Quantam"
 layout: archive
-permalink: /Quantam
+permalink: /Quantam/
 ---
 
 
