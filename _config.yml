@@ -292,3 +292,4 @@ defaults:
       related: true
       sidebar:
         nav: "sidebar-category"
+      sidebar_main: true
