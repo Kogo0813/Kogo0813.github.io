@@ -1,7 +1,7 @@
 ---
-title: "양자 알고리즘"
+title: "Quantam Algorithm"
 layout: archive
-permalink: Quantam Algorithm
+permalink: /Quantam Algorithm
 ---
 
 
